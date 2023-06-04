@@ -1,0 +1,30 @@
+.App {
+ background-color: #990012;
+ color : #f2f2f2;
+ padding : 110px 0;
+}
+.heroText{
+  font-size: 35px;
+}
+.btn-bgs{
+  background-color:#990012b0 !important;
+  color:#f2f2f2 !important;
+}
+.register-page{
+  background-color: #fcf6f675;
+  padding:20px;
+ 
+  border-radius: 5px;;
+}
+.register-page input {
+  border-radius:  2px;
+  border : none;
+}
+
+.register-page input:focus{
+  box-shadow: none;
+  border : none
+}
+.hero_SIde{
+  margin-top: 100px;
+}
